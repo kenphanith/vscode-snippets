@@ -1,0 +1,11 @@
+{
+	"pkforeach": {
+		"body": [
+			"forEach(function(element) {",
+			"\t",
+			"})"
+		],
+		"prefix": "pkforeach",
+		"description": "generate foreach"
+	}
+}

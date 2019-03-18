@@ -1,0 +1,35 @@
+{
+	"vuetpl" : {
+		"body": [
+			"<!-- template -->",
+			"<template>",
+			"\t<div>",
+			"\t\t$0",
+			"\t</div>",
+			"</template>",
+			"<!-- end template -->",
+			"\n",
+			"<!-- script -->",
+			"<script>",
+			"export default {",
+			"\tdata: function () {",
+				"\t\treturn {",
+				"\t\t}",
+			"\t},",
+			"\tmethods: {",
+			"\t},",
+			"\tcreated: function () {",
+			"\t}",
+			"}",
+			"</script>",
+			"<!-- end script -->",
+			"\n",
+			"<!-- style -->",
+			"<style scoped>",
+			"</style>",
+			"<!-- end style -->"
+		],
+		"prefix": "vuetpl",
+		"description": "vue template"
+	}
+}
