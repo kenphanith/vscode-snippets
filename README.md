@@ -1,2 +1,3 @@
 # vscode-snippets
-useful snippet syntax for vscode user
++ To create user snippets in vscode
+  > Preferences -> User Snippets
